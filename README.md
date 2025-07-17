@@ -1,5 +1,5 @@
 # hackatruckDesafios
-Desafios realizados no curso Hackatruck:
+🤖 Desafios realizados no curso Hackatruck:
 
 [Aula 06.07.zip](https://github.com/user-attachments/files/21305357/Aula.06.07.zip)
 
