@@ -11,4 +11,7 @@
 
 [Aula 16.07.zip](https://github.com/user-attachments/files/21305339/Aula.16.07.zip)
 
+[Aula 17.07 Desafio 1.zip](https://github.com/user-attachments/files/21307369/Aula.17.07.Desafio.1.zip)
+
+[Aula 17.07 Desafio 2.zip](https://github.com/user-attachments/files/21307368/Aula.17.07.Desafio.2.zip)
 
