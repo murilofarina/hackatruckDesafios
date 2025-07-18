@@ -26,3 +26,4 @@ Desenvolvidos em linguagem <font color="red">Swift</font>.
 
 [Aula 17.07 Desafio 2.zip](https://github.com/user-attachments/files/21307368/Aula.17.07.Desafio.2.zip)
 
+[sketchArduinoUmidadeLocal.zip](https://github.com/user-attachments/files/21323703/sketchArduinoUmidadeLocal.zip)
