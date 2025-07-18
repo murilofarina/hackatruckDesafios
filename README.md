@@ -1,5 +1,16 @@
-# hackatruckDesafios
-🤖 Desafios realizados no curso Hackatruck:
+<img 
+    align="left"
+    alt="Swift"
+    title="Swift"
+    width="72px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
+/>
+# Desafios Hackatruck
+
+**`Atividades realizadas durante as aulas presenciais do curso Hackatruck:`**
+
+Desenvolvidos em linguagem <font color="red">Swift</font>.
 
 [Aula 06.07.zip](https://github.com/user-attachments/files/21305357/Aula.06.07.zip)
 
