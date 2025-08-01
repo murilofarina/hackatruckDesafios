@@ -24,11 +24,10 @@ Desenvolvidos em linguagem <font color="red">Swift</font>.
 
 [Aula 17.07 Desafio 1.zip](https://github.com/user-attachments/files/21307369/Aula.17.07.Desafio.1.zip)
 
-[ResolveAi Oficial.zip](https://github.com/user-attachments/files/21539232/ResolveAi.Oficial.zip)
-
-
 [Aula 17.07 Desafio 2.zip](https://github.com/user-attachments/files/21307368/Aula.17.07.Desafio.2.zip)
 
 [sketchArduinoUmidadeLocal.zip](https://github.com/user-attachments/files/21323703/sketchArduinoUmidadeLocal.zip)
 
 [Aula 21.07 - umidadeApinNodeRed.zip](https://github.com/user-attachments/files/21355507/Aula.21.07.-.umidadeApinNodeRed.zip)
+
+[ResolveAi Oficial.zip](https://github.com/user-attachments/files/21539414/ResolveAi.Oficial.zip)
