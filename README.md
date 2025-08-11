@@ -12,22 +12,20 @@
 
 Desenvolvidos em linguagem <font color="red">Swift</font>.
 
-[Aula 06.07.zip](https://github.com/user-attachments/files/21305357/Aula.06.07.zip)
-
-[Aula 07.07.zip](https://github.com/user-attachments/files/21305335/Aula.07.07.zip)
-
-[Aula 08.07.zip](https://github.com/user-attachments/files/21305337/Aula.08.07.zip)
-
-[Aula 14.07.zip](https://github.com/user-attachments/files/21305338/Aula.14.07.zip)
-
-[Aula 16.07.zip](https://github.com/user-attachments/files/21305339/Aula.16.07.zip)
-
-[Aula 17.07 Desafio 1.zip](https://github.com/user-attachments/files/21307369/Aula.17.07.Desafio.1.zip)
-
-[Aula 17.07 Desafio 2.zip](https://github.com/user-attachments/files/21307368/Aula.17.07.Desafio.2.zip)
-
-[sketchArduinoUmidadeLocal.zip](https://github.com/user-attachments/files/21323703/sketchArduinoUmidadeLocal.zip)
-
-[Aula 21.07 - umidadeApinNodeRed.zip](https://github.com/user-attachments/files/21355507/Aula.21.07.-.umidadeApinNodeRed.zip)
-
-[ResolveAi Oficial.zip](https://github.com/user-attachments/files/21539414/ResolveAi.Oficial.zip)
+- [Aula 06.07](./Aula%2006.07)
+  
+- [Aula 07.07](./Aula%2007.07)
+  
+- [Aula 14.07](./Aula%2014.07)
+  
+- [Aula 16.07](./Aula%2016.07)
+  
+- [Aula 17.07 Desafio1](./Aula%2017.07%20Desafio1)
+  
+- [Aula 17.07 Desafio2](./Aula%2017.07%20Desafio2)
+  
+- [Aula 21.07 - UmidadeApiNodeRed](./Aula%2021.07%20-%20UmidadeApiNodeRed)
+  
+- [ResolveAi - Projeto Final](./ResolveAi%20-%20Projeto%20Final)
+  
+- [SketchArduinoUmidadeLocal](./SketchArduinoUmidadeLocal)
